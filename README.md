@@ -16,17 +16,34 @@
 
 ---
 
-<h2 align="center">👁️ About Me</h2>
+<h2 align="center">👁️ About</h2>
 
 <p align="center">
   <b>Developer. Builder. Systems Thinker.</b><br>
   Exploring the space between automation, AI cognition, and digital design.<br>
-  My repositories are experiments — not portfolios — built to understand how systems evolve through complexity.
+  This profile is a living lab — code-first experiments designed to reveal how complex systems behave, fail, and evolve.
+</p>
+
+<p align="center">
+  <sub>
+    Primary focus: <b>Laravel</b> / <b>Filament</b>, AI orchestration, and <b>PixiJS</b>-driven experimentation.
+  </sub>
 </p>
 
 ---
 
-<h2 align="center">⚙️ Stats Overview</h2>
+<h2 align="center">🧠 What I Build</h2>
+
+<p align="center">
+  • Automation pipelines & internal tooling<br>
+  • AI-assisted workflows and agentic prototypes<br>
+  • Product-grade Laravel apps (clean architecture, DX, performance)<br>
+  • Visual + interactive experiments (PixiJS / creative coding)
+</p>
+
+---
+
+<h2 align="center">⚙️ Stats</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x7C2f&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
@@ -51,11 +68,21 @@
 
 ---
 
-<h2 align="center">🧠 Tech Stack</h2>
+<h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,typescript,python,docker,linux,tailwind,git,cloudflare" /><br>
-  <sub><i>Focused on Laravel, Filament, AI orchestration, and PixiJS-driven experimentation.</i></sub>
+  <sub><i>Pragmatic tooling, clean interfaces, and systems that scale.</i></sub>
+</p>
+
+---
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://grimdevelopment.com"><b>grimdevelopment.com</b></a> •
+  <a href="https://twitter.com/0x7C2f"><b>@0x7C2f</b></a> •
+  <a href="https://github.com/0x7C2f"><b>github.com/0x7C2f</b></a>
 </p>
 
 ---
@@ -70,11 +97,13 @@
   <sub><i>Unique visits since activation — precision through curiosity.</i></sub>
 </p>
 
-
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=6E40C9&width=600&lines=Building+autonomous+systems.;Experimenting+with+AI-driven+architecture.;Turning+random+ideas+into+code." alt="Typing animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=6E40C9&width=700&lines=Building+autonomous+systems.;Experimenting+with+AI-driven+architecture.;Turning+random+ideas+into+code."
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
