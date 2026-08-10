@@ -64,12 +64,6 @@
 <br>
 
 <h2 align="center">🚀 Featured Projects</h2>
-
-<!--
-  Pin your best repos here. Swap REPO_ONE / REPO_TWO for real repo names.
-  Runs on the same shared stats service as the section below, so it
-  benefits from self-hosting too — see the note there.
--->
 <p align="center">
   <a href="https://github.com/0x7C2f/prime-agent-setup">
     <picture>
