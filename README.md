@@ -71,7 +71,7 @@
   benefits from self-hosting too — see the note there.
 -->
 <p align="center">
-  <a href="https://github.com/0x7C2f/REPO_ONE">
+  <a href="https://github.com/0x7C2f/prime-agent-setup">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_ONE&theme=tokyonight&hide_border=true&bg_color=00000000">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_ONE&theme=default&hide_border=true&bg_color=00000000">
