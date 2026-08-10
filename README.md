@@ -3,18 +3,29 @@
 <!-- ────────────────────────────── -->
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:2563EB&height=200&section=header&text=0x7C2f&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Systems%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" alt="Header banner" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://twitter.com/0x7C2f">
-    <img src="https://img.shields.io/twitter/follow/0x7C2f?color=1DA1F2&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/0x7C2f?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter follow badge" />
   </a>
   <a href="https://github.com/0x7C2f">
-    <img src="https://img.shields.io/badge/GitHub-0x7C2f-171515?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-0x7C2f-171515?style=for-the-badge&logo=github" alt="GitHub badge" />
   </a>
   <a href="https://grimdevelopment.com">
-    <img src="https://img.shields.io/badge/Website-GrimDevelopment.com-0A0A0A?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Website-GrimDevelopment.com-0A0A0A?style=for-the-badge&logo=vercel" alt="Website badge" />
   </a>
 </p>
 
----
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=2563EB&center=true&width=700&lines=Building+autonomous+systems.;Experimenting+with+AI-driven+architecture.;Turning+random+ideas+into+code."
+    alt="Typing animation"
+  />
+</p>
+
+<br>
 
 <h2 align="center">👁️ About</h2>
 
@@ -25,36 +36,107 @@
 </p>
 
 <p align="center">
-  <sub>
-    Primary focus: <b>Laravel</b> / <b>Filament</b>, AI orchestration, and <b>PixiJS</b>-driven experimentation.
-  </sub>
+  <sub>Primary focus: <b>Laravel</b> / <b>Filament</b>, AI orchestration, and <b>PixiJS</b>-driven experimentation.</sub>
 </p>
 
----
+<br>
+
+<h2 align="center">🎯 Currently</h2>
+
+<p align="center">
+  🔭 Building — <i>[your current flagship project]</i><br>
+  🌱 Learning — <i>[a tool/technique you're leveling up on]</i><br>
+  💬 Ask me about — <b>Laravel, Filament, AI orchestration, PixiJS</b><br>
+  ⚡ Fun fact — <i>[one line, optional]</i>
+</p>
+
+<br>
 
 <h2 align="center">🧠 What I Build</h2>
 
 <p align="center">
-  • Automation pipelines & internal tooling<br>
-  • AI-assisted workflows and agentic prototypes<br>
-  • Product-grade Laravel apps (clean architecture, DX, performance)<br>
-  • Visual + interactive experiments (PixiJS / creative coding)
+  🔁 Automation pipelines &amp; internal tooling<br>
+  🤖 AI-assisted workflows and agentic prototypes<br>
+  🏗️ Product-grade Laravel apps — clean architecture, DX, performance<br>
+  🎨 Visual &amp; interactive experiments (PixiJS / creative coding)
 </p>
 
----
+<br>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<!--
+  Pin your best repos here. Swap REPO_ONE / REPO_TWO for real repo names.
+  Runs on the same shared stats service as the section below, so it
+  benefits from self-hosting too — see the note there.
+-->
+<p align="center">
+  <a href="https://github.com/0x7C2f/REPO_ONE">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_ONE&theme=tokyonight&hide_border=true&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_ONE&theme=default&hide_border=true&bg_color=00000000">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_ONE&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Pinned repo one" />
+    </picture>
+  </a>
+  <a href="https://github.com/0x7C2f/REPO_TWO">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_TWO&theme=tokyonight&hide_border=true&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_TWO&theme=default&hide_border=true&bg_color=00000000">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_TWO&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Pinned repo two" />
+    </picture>
+  </a>
+</p>
+
+<br>
 
 <h2 align="center">⚙️ Stats</h2>
 
+<!--
+  NOTE: github-readme-stats.vercel.app is a free SHARED public instance used
+  by thousands of profiles. It intermittently 503s / rate-limits and the
+  cards silently fail to render — this is a known upstream issue, not a bug
+  in this file. If cards are blank:
+    1. Hard-refresh (GitHub caches the image aggressively).
+    2. Wait — the shared instance usually recovers within a few hours.
+    3. For a permanent fix, deploy your own free copy on Vercel:
+       https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+       then replace "github-readme-stats.vercel.app" below with your own
+       *.vercel.app domain in every URL in this file (Stats + Featured
+       Projects sections both use it).
+
+  All widgets below use <picture> to switch cards for GitHub's light/dark
+  viewer setting, matching the approach already used by the snake animation.
+-->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x7C2f&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7C2f&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0x7C2f&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000&cache_seconds=86400">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=0x7C2f&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&bg_color=00000000&cache_seconds=86400">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x7C2f&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000&cache_seconds=86400" alt="0x7C2f's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7C2f&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&cache_seconds=86400">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7C2f&layout=compact&hide_border=true&theme=default&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&cache_seconds=86400">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7C2f&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&cache_seconds=86400" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0x7C2f&theme=tokyonight&hide_border=true&background=FFFFFF00" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=0x7C2f&theme=tokyonight&hide_border=true&background=FFFFFF00">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=0x7C2f&theme=default&hide_border=true&background=FFFFFF00">
+    <img src="https://streak-stats.demolab.com?user=0x7C2f&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="GitHub streak stats" />
+  </picture>
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=0x7C2f&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=0x7C2f&theme=flat&no-frame=true&no-bg=true&row=2&column=3&margin-w=8">
+    <img src="https://github-profile-trophy.vercel.app/?username=0x7C2f&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8" alt="GitHub trophies" />
+  </picture>
+</p>
+
+<br>
 
 <h2 align="center">🧩 Contribution Flow</h2>
 
@@ -62,20 +144,34 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x7C2f/0x7C2f/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x7C2f/0x7C2f/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/0x7C2f/0x7C2f/output/github-contribution-grid-snake.svg" width="95%">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/0x7C2f/0x7C2f/output/github-contribution-grid-snake.svg" width="95%">
   </picture>
 </p>
 
----
+<br>
 
 <h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,typescript,python,docker,linux,tailwind,git,cloudflare" /><br>
+  <sub><b>Backend</b></sub><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,docker,linux" alt="Backend stack icons" />
+</p>
+
+<p align="center">
+  <sub><b>Frontend</b></sub><br>
+  <img src="https://skillicons.dev/icons?i=vue,typescript,tailwind" alt="Frontend stack icons" />
+</p>
+
+<p align="center">
+  <sub><b>Tooling &amp; Infra</b></sub><br>
+  <img src="https://skillicons.dev/icons?i=git,cloudflare" alt="Tooling and infra icons" />
+</p>
+
+<p align="center">
   <sub><i>Pragmatic tooling, clean interfaces, and systems that scale.</i></sub>
 </p>
 
----
+<br>
 
 <h2 align="center">🤝 Connect</h2>
 
@@ -85,27 +181,22 @@
   <a href="https://github.com/0x7C2f"><b>github.com/0x7C2f</b></a>
 </p>
 
----
+<br>
 
 <h2 align="center">📟 Visitors</h2>
 
 <p align="center">
   <a href="https://github.com/0x7C2f">
-    <img src="https://profile-counter.glitch.me/0x7C2f/count.svg" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=0x7C2f&color=6E40C9&style=flat&label=Profile+Views" alt="Visitor counter" />
   </a>
   <br>
   <sub><i>Unique visits since activation — precision through curiosity.</i></sub>
 </p>
 
----
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=6E40C9&width=700&lines=Building+autonomous+systems.;Experimenting+with+AI-driven+architecture.;Turning+random+ideas+into+code."
-    alt="Typing animation"
-  />
+  <sub>Fueled by curiosity, logic, and late-night builds</sub>
 </p>
 
 <p align="center">
-  <sub>Fueled by curiosity, logic, and late-night builds</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A0A0A&height=100&section=footer" alt="Footer banner" width="100%" />
 </p>
