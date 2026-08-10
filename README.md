@@ -56,27 +56,6 @@
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/0x7C2f/prime-agent-setup">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=prime-agent-setup&theme=tokyonight&hide_border=true&bg_color=00000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=prime-agent-setup&theme=default&hide_border=true&bg_color=00000000">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=prime-agent-setup&theme=tokyonight&hide_border=true&bg_color=00000000" alt="prime-agent-setup repo card" />
-    </picture>
-  </a>
-  <a href="https://github.com/0x7C2f/0x7C2f.github.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=0x7C2f.github.io&theme=tokyonight&hide_border=true&bg_color=00000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=0x7C2f.github.io&theme=default&hide_border=true&bg_color=00000000">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=0x7C2f.github.io&theme=tokyonight&hide_border=true&bg_color=00000000" alt="0x7C2f.github.io repo card" />
-    </picture>
-  </a>
-</p>
-
-<br>
-
 <h2 align="center">⚙️ Stats</h2>
 <p align="center">
   <picture>
