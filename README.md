@@ -19,6 +19,10 @@
 </p>
 
 <p align="center">
+  <sub>📍 Earth &nbsp;•&nbsp; 🎯 Focusing</sub>
+</p>
+
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=2563EB&center=true&width=700&lines=Building+autonomous+systems.;Experimenting+with+AI-driven+architecture.;Turning+random+ideas+into+code."
     alt="Typing animation"
@@ -41,17 +45,6 @@
 
 <br>
 
-<h2 align="center">🎯 Currently</h2>
-
-<p align="center">
-  🔭 Building — <i>[your current flagship project]</i><br>
-  🌱 Learning — <i>[a tool/technique you're leveling up on]</i><br>
-  💬 Ask me about — <b>Laravel, Filament, AI orchestration, PixiJS</b><br>
-  ⚡ Fun fact — <i>[one line, optional]</i>
-</p>
-
-<br>
-
 <h2 align="center">🧠 What I Build</h2>
 
 <p align="center">
@@ -64,19 +57,20 @@
 <br>
 
 <h2 align="center">🚀 Featured Projects</h2>
+
 <p align="center">
   <a href="https://github.com/0x7C2f/prime-agent-setup">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_ONE&theme=tokyonight&hide_border=true&bg_color=00000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_ONE&theme=default&hide_border=true&bg_color=00000000">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_ONE&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Pinned repo one" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=prime-agent-setup&theme=tokyonight&hide_border=true&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=prime-agent-setup&theme=default&hide_border=true&bg_color=00000000">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=prime-agent-setup&theme=tokyonight&hide_border=true&bg_color=00000000" alt="prime-agent-setup repo card" />
     </picture>
   </a>
-  <a href="https://github.com/0x7C2f/REPO_TWO">
+  <a href="https://github.com/0x7C2f/0x7C2f.github.io">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_TWO&theme=tokyonight&hide_border=true&bg_color=00000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_TWO&theme=default&hide_border=true&bg_color=00000000">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=REPO_TWO&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Pinned repo two" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=0x7C2f.github.io&theme=tokyonight&hide_border=true&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=0x7C2f.github.io&theme=default&hide_border=true&bg_color=00000000">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0x7C2f&repo=0x7C2f.github.io&theme=tokyonight&hide_border=true&bg_color=00000000" alt="0x7C2f.github.io repo card" />
     </picture>
   </a>
 </p>
@@ -130,6 +124,12 @@
   </picture>
 </p>
 
+<p align="center">
+  <sub>
+    🏅 Pair Extraordinaire ×2 &nbsp;•&nbsp; 🦈 Pull Shark ×2 &nbsp;•&nbsp; ⚡ Quickdraw &nbsp;•&nbsp; 🎲 YOLO &nbsp;•&nbsp; ✅ GitHub Developer Program Member
+  </sub>
+</p>
+
 <br>
 
 <h2 align="center">🧩 Contribution Flow</h2>
@@ -140,6 +140,21 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x7C2f/0x7C2f/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/0x7C2f/0x7C2f/output/github-contribution-grid-snake.svg" width="95%">
   </picture>
+</p>
+
+<br>
+
+<h2 align="center">⭐ Star History — prime-agent-setup</h2>
+
+<!-- Runs on star-history.com — a separate, reliable service unaffected by the stats-card issue above. -->
+<p align="center">
+  <a href="https://star-history.com/#0x7C2f/prime-agent-setup&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0x7C2f/prime-agent-setup&type=Date&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0x7C2f/prime-agent-setup&type=Date&theme=light">
+      <img src="https://api.star-history.com/svg?repos=0x7C2f/prime-agent-setup&type=Date&theme=dark" alt="Star history chart" width="80%" />
+    </picture>
+  </a>
 </p>
 
 <br>
