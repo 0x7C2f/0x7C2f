@@ -78,23 +78,6 @@
 <br>
 
 <h2 align="center">⚙️ Stats</h2>
-
-<!--
-  NOTE: github-readme-stats.vercel.app is a free SHARED public instance used
-  by thousands of profiles. It intermittently 503s / rate-limits and the
-  cards silently fail to render — this is a known upstream issue, not a bug
-  in this file. If cards are blank:
-    1. Hard-refresh (GitHub caches the image aggressively).
-    2. Wait — the shared instance usually recovers within a few hours.
-    3. For a permanent fix, deploy your own free copy on Vercel:
-       https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-       then replace "github-readme-stats.vercel.app" below with your own
-       *.vercel.app domain in every URL in this file (Stats + Featured
-       Projects sections both use it).
-
-  All widgets below use <picture> to switch cards for GitHub's light/dark
-  viewer setting, matching the approach already used by the snake animation.
--->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0x7C2f&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000&cache_seconds=86400">
@@ -140,21 +123,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x7C2f/0x7C2f/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/0x7C2f/0x7C2f/output/github-contribution-grid-snake.svg" width="95%">
   </picture>
-</p>
-
-<br>
-
-<h2 align="center">⭐ Star History — prime-agent-setup</h2>
-
-<!-- Runs on star-history.com — a separate, reliable service unaffected by the stats-card issue above. -->
-<p align="center">
-  <a href="https://star-history.com/#0x7C2f/prime-agent-setup&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0x7C2f/prime-agent-setup&type=Date&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0x7C2f/prime-agent-setup&type=Date&theme=light">
-      <img src="https://api.star-history.com/svg?repos=0x7C2f/prime-agent-setup&type=Date&theme=dark" alt="Star history chart" width="80%" />
-    </picture>
-  </a>
 </p>
 
 <br>
